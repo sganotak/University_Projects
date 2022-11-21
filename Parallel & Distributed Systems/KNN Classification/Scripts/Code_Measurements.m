@@ -1,5 +1,4 @@
 % close all;clear;clc
-addpath('C:\Users\leank\Desktop\TexRelated\matlab2tikz-master\matlab2tikz-master\src')
 
 %    BL = zeros(8,1);
     NBL = zeros(8,1);
